@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlightSimulator</string>
+    <string name="throttle">Throttle</string>
+    <string name="connect">Connect</string>
+    <string name="port">PORT</string>
+    <string name="ip">IP</string>
+    <string name="rudder">Rudder</string>
+</resources>
